@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Exemple</string>
+    <string name="texteTextView">Bonjour</string>
 </resources>
